@@ -1,0 +1,5 @@
+/vstream
+/dist/
+web/node_modules/
+*.test
+.DS_Store
